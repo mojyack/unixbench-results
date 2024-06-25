@@ -1,0 +1,122 @@
+   BYTE UNIX Benchmarks (Version 5.1.3)
+
+   System: solomon: GNU/Linux
+   OS: GNU/Linux -- 6.6.21-gentoo -- #2 SMP PREEMPT_DYNAMIC Thu Apr 11 13:27:20 JST 2024
+   Machine: x86_64 (AuthenticAMD)
+   Language: en_US.utf8 (charmap=, collate=)
+   CPU 0: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 1: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 2: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 3: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 4: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 5: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 6: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 7: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 8: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 9: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 10: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 11: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 12: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 13: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 14: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 15: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 16: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 17: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 18: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 19: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 20: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 21: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 22: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   CPU 23: AMD Ryzen Threadripper 2920X 12-Core Processor (6988.1 bogomips)
+          Hyper-Threading, x86-64, MMX, AMD MMX, Physical Address Ext, SYSENTER/SYSEXIT, AMD virtualization, SYSCALL/SYSRET
+   03:47:33 up 15:01,  0 users,  load average: 1.32, 1.73, 1.88; runlevel 
+
+------------------------------------------------------------------------
+Benchmark Run: Wed Apr 17 2024 03:47:33 - 04:15:29
+24 CPUs in system; running 1 parallel copy of tests
+
+Dhrystone 2 using register variables       45771721.1 lps   (10.0 s, 7 samples)
+Double-Precision Whetstone                     8930.6 MWIPS (9.9 s, 7 samples)
+Execl Throughput                               9793.5 lps   (30.0 s, 2 samples)
+File Copy 1024 bufsize 2000 maxblocks       1918539.1 KBps  (30.0 s, 2 samples)
+File Copy 256 bufsize 500 maxblocks          590262.7 KBps  (30.0 s, 2 samples)
+File Copy 4096 bufsize 8000 maxblocks       2955212.6 KBps  (30.0 s, 2 samples)
+Pipe Throughput                             2940107.7 lps   (10.0 s, 7 samples)
+Pipe-based Context Switching                 213188.8 lps   (10.0 s, 7 samples)
+Process Creation                               9461.0 lps   (30.0 s, 2 samples)
+Shell Scripts (1 concurrent)                   8334.2 lpm   (60.0 s, 2 samples)
+Shell Scripts (8 concurrent)                   7698.3 lpm   (60.0 s, 2 samples)
+System Call Overhead                        3666354.9 lps   (10.0 s, 7 samples)
+
+System Benchmarks Index Values               BASELINE       RESULT    INDEX
+Dhrystone 2 using register variables         116700.0   45771721.1   3922.2
+Double-Precision Whetstone                       55.0       8930.6   1623.7
+Execl Throughput                                 43.0       9793.5   2277.6
+File Copy 1024 bufsize 2000 maxblocks          3960.0    1918539.1   4844.8
+File Copy 256 bufsize 500 maxblocks            1655.0     590262.7   3566.5
+File Copy 4096 bufsize 8000 maxblocks          5800.0    2955212.6   5095.2
+Pipe Throughput                               12440.0    2940107.7   2363.4
+Pipe-based Context Switching                   4000.0     213188.8    533.0
+Process Creation                                126.0       9461.0    750.9
+Shell Scripts (1 concurrent)                     42.4       8334.2   1965.6
+Shell Scripts (8 concurrent)                      6.0       7698.3  12830.5
+System Call Overhead                          15000.0    3666354.9   2444.2
+                                                                   ========
+System Benchmarks Index Score                                        2546.8
+
+------------------------------------------------------------------------
+Benchmark Run: Wed Apr 17 2024 04:15:29 - 04:43:31
+24 CPUs in system; running 24 parallel copies of tests
+
+Dhrystone 2 using register variables      432038316.9 lps   (10.0 s, 7 samples)
+Double-Precision Whetstone                   151630.7 MWIPS (10.3 s, 7 samples)
+Execl Throughput                              61353.8 lps   (30.0 s, 2 samples)
+File Copy 1024 bufsize 2000 maxblocks       7323277.8 KBps  (30.0 s, 2 samples)
+File Copy 256 bufsize 500 maxblocks         7409722.7 KBps  (30.0 s, 2 samples)
+File Copy 4096 bufsize 8000 maxblocks       7044948.2 KBps  (30.0 s, 2 samples)
+Pipe Throughput                            38533318.5 lps   (10.0 s, 7 samples)
+Pipe-based Context Switching                5541995.7 lps   (10.0 s, 7 samples)
+Process Creation                              98782.2 lps   (30.0 s, 2 samples)
+Shell Scripts (1 concurrent)                  97141.1 lpm   (60.0 s, 2 samples)
+Shell Scripts (8 concurrent)                  12014.6 lpm   (60.1 s, 2 samples)
+System Call Overhead                       44077820.8 lps   (10.0 s, 7 samples)
+
+System Benchmarks Index Values               BASELINE       RESULT    INDEX
+Dhrystone 2 using register variables         116700.0  432038316.9  37021.3
+Double-Precision Whetstone                       55.0     151630.7  27569.2
+Execl Throughput                                 43.0      61353.8  14268.3
+File Copy 1024 bufsize 2000 maxblocks          3960.0    7323277.8  18493.1
+File Copy 256 bufsize 500 maxblocks            1655.0    7409722.7  44771.7
+File Copy 4096 bufsize 8000 maxblocks          5800.0    7044948.2  12146.5
+Pipe Throughput                               12440.0   38533318.5  30975.3
+Pipe-based Context Switching                   4000.0    5541995.7  13855.0
+Process Creation                                126.0      98782.2   7839.9
+Shell Scripts (1 concurrent)                     42.4      97141.1  22910.6
+Shell Scripts (8 concurrent)                      6.0      12014.6  20024.3
+System Call Overhead                          15000.0   44077820.8  29385.2
+                                                                   ========
+System Benchmarks Index Score                                       20822.4
+

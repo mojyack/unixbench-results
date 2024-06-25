@@ -1,0 +1,218 @@
+   BYTE UNIX Benchmarks (Version 5.1.3)
+
+   System: sophia: GNU/Linux
+   OS: GNU/Linux -- 6.6.13-gentoo -- #1 SMP PREEMPT_DYNAMIC Sun Feb 25 10:01:58 JST 2024
+   Machine: x86_64 (GenuineIntel)
+   Language: en_US.utf8 (charmap=, collate=)
+   CPU 0: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 1: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 2: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 3: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 4: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 5: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 6: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 7: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 8: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 9: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 10: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 11: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 12: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 13: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 14: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 15: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 16: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 17: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 18: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 19: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 20: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 21: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 22: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 23: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 24: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 25: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 26: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 27: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 28: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 29: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 30: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 31: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 32: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 33: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 34: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 35: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 36: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 37: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 38: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 39: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 40: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 41: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 42: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 43: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 44: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 45: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 46: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 47: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 48: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 49: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 50: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 51: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 52: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 53: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 54: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 55: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 56: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 57: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 58: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 59: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 60: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 61: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 62: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 63: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 64: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 65: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 66: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 67: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 68: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 69: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 70: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   CPU 71: Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz (4591.5 bogomips)
+          Hyper-Threading, x86-64, MMX, Physical Address Ext, SYSENTER/SYSEXIT, SYSCALL/SYSRET, Intel virtualization
+   00:10:20 up 16 days, 23:08,  0 users,  load average: 0.01, 0.02, 0.10; runlevel 
+
+------------------------------------------------------------------------
+Benchmark Run: Wed Apr 17 2024 00:10:20 - 00:38:17
+72 CPUs in system; running 1 parallel copy of tests
+
+Dhrystone 2 using register variables       37108424.8 lps   (10.0 s, 7 samples)
+Double-Precision Whetstone                     7789.0 MWIPS (10.0 s, 7 samples)
+Execl Throughput                               8659.8 lps   (30.0 s, 2 samples)
+File Copy 1024 bufsize 2000 maxblocks       2305101.8 KBps  (30.0 s, 2 samples)
+File Copy 256 bufsize 500 maxblocks          666763.0 KBps  (30.0 s, 2 samples)
+File Copy 4096 bufsize 8000 maxblocks       5707276.5 KBps  (30.0 s, 2 samples)
+Pipe Throughput                             3630397.6 lps   (10.0 s, 7 samples)
+Pipe-based Context Switching                 141915.0 lps   (10.0 s, 7 samples)
+Process Creation                               6553.0 lps   (30.0 s, 2 samples)
+Shell Scripts (1 concurrent)                   7853.6 lpm   (60.0 s, 2 samples)
+Shell Scripts (8 concurrent)                   6362.9 lpm   (60.0 s, 2 samples)
+System Call Overhead                        3405946.7 lps   (10.0 s, 7 samples)
+
+System Benchmarks Index Values               BASELINE       RESULT    INDEX
+Dhrystone 2 using register variables         116700.0   37108424.8   3179.8
+Double-Precision Whetstone                       55.0       7789.0   1416.2
+Execl Throughput                                 43.0       8659.8   2013.9
+File Copy 1024 bufsize 2000 maxblocks          3960.0    2305101.8   5821.0
+File Copy 256 bufsize 500 maxblocks            1655.0     666763.0   4028.8
+File Copy 4096 bufsize 8000 maxblocks          5800.0    5707276.5   9840.1
+Pipe Throughput                               12440.0    3630397.6   2918.3
+Pipe-based Context Switching                   4000.0     141915.0    354.8
+Process Creation                                126.0       6553.0    520.1
+Shell Scripts (1 concurrent)                     42.4       7853.6   1852.3
+Shell Scripts (8 concurrent)                      6.0       6362.9  10604.9
+System Call Overhead                          15000.0    3405946.7   2270.6
+                                                                   ========
+System Benchmarks Index Score                                        2464.7
+
+------------------------------------------------------------------------
+Benchmark Run: Wed Apr 17 2024 00:38:17 - 01:06:29
+72 CPUs in system; running 72 parallel copies of tests
+
+Dhrystone 2 using register variables     1021145821.2 lps   (10.0 s, 7 samples)
+Double-Precision Whetstone                   378926.0 MWIPS (10.0 s, 7 samples)
+Execl Throughput                              45480.0 lps   (29.7 s, 2 samples)
+File Copy 1024 bufsize 2000 maxblocks      10816670.2 KBps  (30.0 s, 2 samples)
+File Copy 256 bufsize 500 maxblocks        15700847.0 KBps  (30.0 s, 2 samples)
+File Copy 4096 bufsize 8000 maxblocks      10467415.6 KBps  (30.0 s, 2 samples)
+Pipe Throughput                            93537516.7 lps   (10.0 s, 7 samples)
+Pipe-based Context Switching                4802201.6 lps   (10.0 s, 7 samples)
+Process Creation                              57375.5 lps   (30.0 s, 2 samples)
+Shell Scripts (1 concurrent)                  63485.4 lpm   (60.0 s, 2 samples)
+Shell Scripts (8 concurrent)                   8395.1 lpm   (60.2 s, 2 samples)
+System Call Overhead                      105977407.8 lps   (10.0 s, 7 samples)
+
+System Benchmarks Index Values               BASELINE       RESULT    INDEX
+Dhrystone 2 using register variables         116700.0 1021145821.2  87501.8
+Double-Precision Whetstone                       55.0     378926.0  68895.6
+Execl Throughput                                 43.0      45480.0  10576.7
+File Copy 1024 bufsize 2000 maxblocks          3960.0   10816670.2  27314.8
+File Copy 256 bufsize 500 maxblocks            1655.0   15700847.0  94869.2
+File Copy 4096 bufsize 8000 maxblocks          5800.0   10467415.6  18047.3
+Pipe Throughput                               12440.0   93537516.7  75190.9
+Pipe-based Context Switching                   4000.0    4802201.6  12005.5
+Process Creation                                126.0      57375.5   4553.6
+Shell Scripts (1 concurrent)                     42.4      63485.4  14973.0
+Shell Scripts (8 concurrent)                      6.0       8395.1  13991.8
+System Call Overhead                          15000.0  105977407.8  70651.6
+                                                                   ========
+System Benchmarks Index Score                                       27430.0
+
